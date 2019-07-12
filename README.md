@@ -1,4 +1,4 @@
-. u?4# Active Record CRUD
+# Active Record CRUD
 
 ## Objective
 
